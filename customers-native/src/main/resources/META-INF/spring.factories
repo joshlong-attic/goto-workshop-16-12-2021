@@ -1,0 +1,6 @@
+org.springframework.aot.context.bootstrap.generator.infrastructure.nativex.BeanFactoryNativeConfigurationProcessor=\
+  com.example.customersnative.nativex.CrmBeanFactoryNativeConfigurationProcessor
+org.springframework.aot.context.bootstrap.generator.infrastructure.nativex.BeanNativeConfigurationProcessor=\
+  com.example.customersnative.nativex.CrmBeanNativeConfigurationProcessor
+org.springframework.nativex.type.NativeConfiguration=\
+  hints.MyCrmHints
